@@ -14,7 +14,6 @@ I’m a passionate developer with a strong focus on both high-level programming 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloDoMonte&langs_count=10&theme=dracula&layout=compact)](https://github.com/PauloDoMonte)
 
 
 - **Frameworks**:  
@@ -50,3 +49,6 @@ I’m a passionate developer with a strong focus on both high-level programming 
 </div>
 
 ---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PauloDoMonte&color=blue&style=flat)
+

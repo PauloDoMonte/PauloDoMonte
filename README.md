@@ -4,7 +4,7 @@
 
 ### Developer Specializing in High and Low-Level Programming (Python and Rust)
 
-I’m a passionate developer with a strong focus on both high-level programming using Python and low-level systems programming with Rust. My work spans across creating robust, scalable applications and diving deep into system internals. I'm always eager to learn and contribute to exciting projects that push the boundaries of technology.
+As a dedicated developer, I thrive on building both high-level applications and exploring the intricacies of low-level system programming. My expertise in Python allows me to develop scalable and efficient software solutions, while my proficiency in Rust and Assembly enables me to optimize performance and ensure reliability at the system level. I am constantly seeking to expand my knowledge and contribute to innovative projects that challenge the status quo in technology.
 
 ---
 
@@ -14,11 +14,13 @@ I’m a passionate developer with a strong focus on both high-level programming 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+  ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assembly&logoColor=white)
 
 - **Frameworks**:  
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Rocket](https://img.shields.io/badge/Rocket-FF5733?style=for-the-badge&logo=rocket&logoColor=white)
+  ![Actix](https://img.shields.io/badge/Actix-333333?style=for-the-badge&logo=actix&logoColor=white)
 
 - **Tools**:  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)

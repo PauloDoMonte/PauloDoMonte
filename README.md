@@ -52,5 +52,12 @@ As a dedicated developer, I thrive on building both high-level applications and 
 
 ---
 
+### 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PauloDoMonte&theme=dracula&area=true&hide_border=true&custom_title=Atividade+de+Commits)
+
+
+---
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=PauloDoMonte&color=blue&style=flat)
 

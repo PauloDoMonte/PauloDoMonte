@@ -54,8 +54,7 @@ As a dedicated developer, I thrive on building both high-level applications and 
 
 ### 📈 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PauloDoMonte&theme=dracula&area=true&hide_border=true&custom_title=Atividade+de+Commits)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PauloDoMonte&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
